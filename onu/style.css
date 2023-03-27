@@ -1,0 +1,71 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+header{
+    text-align: center  ;
+    background: #DDA63A;
+    color: white;
+ 
+    padding: 20px;  
+    
+}
+header h1{
+    padding: 10px;
+    font-size: 40px ;
+}
+
+main{
+    
+    padding: 50px;
+
+}
+
+.texto{
+    padding: 20px;
+    margin: 10px 50px 50px 50px;
+    text-align: left;
+}
+.texto h2{
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+.texto p{
+    margin: 20px;
+    line-height: 1.75;
+    font-size: 20px;
+
+}
+
+.lista {
+	width: 40%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+.itens {
+	line-height: 1.5;
+    padding: 10px;
+    font-size: 18px;
+}
+.video{
+    margin-left: 100px;
+    border: 5px solid #DDA63A;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+    background: #DDA63A;
+    padding: 50px;
+    font-size: 15;
+}
